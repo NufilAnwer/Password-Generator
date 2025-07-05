@@ -23,8 +23,9 @@ It features a **futuristic neon-styled UI** with smooth animations and interacti
 
 ## 📸 Preview
 
-> ![Screenshot](Screenshot 2025-07-05 170100.png)  
-> *(Optional – upload your screenshot in repo and paste link here)*
+![Password Generator Screenshot](Screenshot%202025-07-05%20170100.png)
+
+> *Screenshot from July 5, 2025*
 
 ---
 
